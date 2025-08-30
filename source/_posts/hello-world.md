@@ -1,7 +1,3 @@
-<!--
- * @Date: 2023-10-24 22:05:08
- * @Author: Fancyicookie
--->
 ---
 title: Hello World
 ---
