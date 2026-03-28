@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 幻想曲奇的梦
+subtitle: 'FangyaLi的博客'
+description: 'I want to brave to be myself.'
 keywords:
 author: FancyICookie
 language: en
@@ -105,4 +105,4 @@ deploy:
   type: git
   repo: https://github.com/fancyicookie/fancyicookie.github.io # 比如：https://github.com/YunYouJun/yunyoujun.github.io
   branch: master # 默认使用 master 分支
-  message: Update Hexo Static Content # 你可以自定义此次部署更新的说明
+  message: 更新了Hexo的网页静态内容 # 你可以自定义此次部署更新的说明
